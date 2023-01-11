@@ -5,20 +5,23 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 
   - <a href="https://github.com/yorgopetsas/42Barcelona" /> 42Barcelona</a>
   
-    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/libft">Get Next Line</a>
+    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/get_next_line">Get Next Line</a>
 
-    - <a href="https://github.com/yorgopetsas/Python/">Print_F</a>
+    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/printf">Print_F</a>
 
-    - <a href="https://github.com/yorgopetsas/Python/">Libft</a>
+    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/libft">Libft</a>
 
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/MAKE">🔥 Universal Makefile 🔥</a>
 
   - <a href="https://github.com/yorgopetsas/Python" /> Python</a>
-    - <a href="https://github.com/yorgopetsas/Python/">🕹️ SpaceWars:</a> My first game build with PyGame
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceWars">🕹️ SpaceWars:</a> My first game build with PyGame
 
-    - <a href="https://github.com/yorgopetsas/Python/">⌨️ Typing Speed:</a> A script that tells you how fast you type
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/TypingSpeed">⌨️ Typing Speed:</a> A script that tells you how fast you type
 
-    - <a href="https://github.com/yorgopetsas/Python/">🎰 Roullete:</a> A roullete like CLI game
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/roullete">🎰 Roullete:</a> A roullete like CLI game
+
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/functions">Functions:</a> A collection of basic functions
+
   - <a href="https://github.com/yorgopetsas/Django" /> Django</a>
 
 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
