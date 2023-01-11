@@ -1,9 +1,14 @@
 ### Hola 👋
-
+<div align="center">
+  <a href="https://github.com/ChewyToast">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!--
 **yorgopetsas/yorgopetsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Some brief info about me:
+
+My name is Yorgo and I would like to share some basic info about me:
 
 - 🔭 I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.
 
