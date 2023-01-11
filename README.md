@@ -6,7 +6,7 @@
 </div> -->
 
 
-```✨ Hola 👋, my name is Yorgo and I would like to share some basic info about me:```
+✨ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 
 
 Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
@@ -197,7 +197,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
      - phpMyAdmin
      - Apache -->
 
-## Certificates:
+Certificates:
   
   ✳️  <b>SCRUM</b> @ Scrum Manager (www.scrummanager.com) 
   - <b>Certified Scrum Product Owner (CSPO)</b> 
@@ -234,12 +234,11 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
   - <b>Operating Systems and You: Becoming a Power User</b>
     - Link: https://coursera.org/verify/G8DENXF485T2
   - <b>System Administration and IT Infrastructure Services</b>
-      - Link: https://coursera.org/verify/J56275AUJ6CX
+    - Link: https://coursera.org/verify/J56275AUJ6CX
   - <b>The Bits and Bytes of Computer Networking</b>
     - Link: https://coursera.org/verify/4GM8NG338VCA
  
- 
-  ✳️ <b>OTHERS:</b>
-    - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042)
+  ✳️ <b>OTHERS</b> 
+  - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042) 
 
-    - <b>AdWords Qualified Individual</b> - Search Advertising @ Google (Credential ID:01525583)
+  - <b>AdWords Qualified Individual</b> - Search Advertising @ Google (Credential ID:01525583)
