@@ -31,7 +31,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 | ![logo-magento]  Magento       ||![logo-plesk]  Plesk      || ![logo-analytics]  Google Analytics     || ![logo-adwords]  AdWords                | 
 | ![logo-wp]  WordPress     || ![logo-cp]  CPanel        || ![logo-webmaster]  Google Wemaster tools ||![logo-facebook]  Facebook Ads |
 | ![logo-woocommerce]  WooCommerce   || ![logo-phpmyadmin]  phpMyAdmin     || ![logo-search]  Google Console        || ![logo-amazon]  Amazon Ads  |
-| ![logo-presta]  PrestaShop    || ![logo-apache]. Apache        || ![logo-html]  HTML 5                || ![logo-hootsuite]  Hootsuite              |
+| ![logo-presta]  PrestaShop    || ![logo-apache]  Apache        || ![logo-html]  HTML 5                || ![logo-hootsuite]  Hootsuite              |
 | ![logo-joomla] Joomla        || <b>DATA</b>   || ![logo-css]  CSS 3                 || <b> SEO / SEM </b>     |
 | ![logo-opencart]  OpenCart      || ![logo-looker]  Looker Studio || <b>MANAGEMENT</b>     || ![logo-hubspot]  HubSpot               |
 | ![logo-big-commerce]  BigCommerce   || ![logo-bigquery]  Big Queary    || ![logo-trello]  Trello               || ![logo-majestic]  MajesticSEO            |
