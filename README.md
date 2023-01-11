@@ -1,29 +1,34 @@
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/ChewyToast">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
-✨
-Hola 👋, my name is Yorgo and I would like to share some basic info about me:
----
 
-> I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.
+```✨ Hola 👋, my name is Yorgo and I would like to share some basic info about me:```
 
-🌱 I’m currently learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). In the follwoing repositories you can see my most recent projects:
-  
+
+Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
+🌱 I’m also learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). <br /><br />In the follwoing repositories you can see my most recent projects:
+
   - <a href="https://github.com/yorgopetsas/42Barcelona" /> 42Barcelona</a>
   
-    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/get_next_line">Get Next Line</a>
+    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/libft">Get Next Line</a>
 
-    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/printf">Print_F</a>
+    - <a href="https://github.com/yorgopetsas/Python/">Print_F</a>
 
-    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/libft">Libft</a>
+    - <a href="https://github.com/yorgopetsas/Python/">Libft</a>
+
+    - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/MAKE">🔥 Universal Makefile 🔥</a>
 
 
   - <a href="https://github.com/yorgopetsas/Python" /> Python</a>
+    - <a href="https://github.com/yorgopetsas/Python/">🕹️ SpaceWars:</a> My first game build with PyGame
 
+    - <a href="https://github.com/yorgopetsas/Python/">⌨️ Typing Speed:</a> A script that tells you how fast you type
+
+    - <a href="https://github.com/yorgopetsas/Python/">🎰 Roullete:</a> A roullete like CLI game
   - <a href="https://github.com/yorgopetsas/Django" /> Django</a>
 
 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
@@ -31,17 +36,17 @@ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 💬 Ask me about: I have extensive knowledge on website and eCommerce management, including the following areas/tools:
 
 
-| Frameworks Web| Admin Tools   |  Webmaster            | Online marketing       |
-| ------------- |:--------------|:----------------------|:-----------------------|
-| Magento       |![logo-plesk]  Plesk      | ![logo-analytic]. Google Analytics     | ![logo-adwords]  AdWords                | 
-| ![logo-wp]  WordPress     | ![logo-cp]  CPanel        | Google Wemaster tools | Facebook/Instagram Ads |
-| ![logo-woocommerce]  WooCommerce   | ![logo-phpmyadmin]  phpMyAdmin     | Google Console        | Amazon Ads  |
-| ![logo-presta]  PrestaShop    | ![logo-apache]. Apache        | ![logo-html]  HTML 5                | ![logo-hootsuite]  Hootsuite              |
-| ![logo-joomla] Joomla        | <h2>Data</h2>   | CSS 3                 | <b> SEO / SEM </b>     |
-| ![logo-opencart]  OpenCart      | ![logo-looker]  Looker Studio | <b>Management</b>     | ![logo-hubspot]  HubSpot               |
-| ![logo-big-commerce]  BigCommerce   | ![logo-bigquery]  Big Queary    | ![logo-trello]  Trello               | ![logo-majestic]  MajesticSEO            |
-| ![logo-drupal]  Drupal       | Tableau       | ![logo-jira]  Jira                  | LinkBuilding           |
-|               | ![logo-r]  R             | ![logo-dynamics]  365 Dynamics          | OnSite Optimization    |
+| FRAMEWORKS    | | ADMIN TOOLS   | |  WEBMASTER            | | ONLINE MARKETING       |
+| ------------- |-|:--------------|-|:----------------------|-|:-----------------------|
+| ![logo-magento]  Magento       ||![logo-plesk]  Plesk      || ![logo-analytics]  Google Analytics     || ![logo-adwords]  AdWords                | 
+| ![logo-wp]  WordPress     || ![logo-cp]  CPanel        || ![logo-webmaster]  Google Wemaster tools ||![logo-facebook]  Facebook Ads |
+| ![logo-woocommerce]  WooCommerce   || ![logo-phpmyadmin]  phpMyAdmin     || ![logo-search]  Google Console        || ![logo-amazon]  Amazon Ads  |
+| ![logo-presta]  PrestaShop    || ![logo-apache]. Apache        || ![logo-html]  HTML 5                || ![logo-hootsuite]  Hootsuite              |
+| ![logo-joomla] Joomla        || <b>DATA</b>   || ![logo-css]  CSS 3                 || <b> SEO / SEM </b>     |
+| ![logo-opencart]  OpenCart      || ![logo-looker]  Looker Studio || <b>MANAGEMENT</b>     || ![logo-hubspot]  HubSpot               |
+| ![logo-big-commerce]  BigCommerce   || ![logo-bigquery]  Big Queary    || ![logo-trello]  Trello               || ![logo-majestic]  MajesticSEO            |
+| ![logo-drupal]  Drupal       || ![logo-tableau]  Tableau       || ![logo-jira]  Jira                  || LinkBuilding           |
+|               || ![logo-r]  R             || ![logo-dynamics]  365 Dynamics          || OnSite Optimization    |
 
 
 <!--
@@ -122,8 +127,9 @@ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 </tbody>
 </table>-->
 
+[logo-magento]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/magento.png
 [logo-adwords]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/adwords.png
-[logo-analytic]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/sanalytics.png
+[logo-analytics]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/analytics.png
 [logo-apache]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/apache.png
 [logo-big-commerce]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png
 [logo-bigquery]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/bigquery.png
@@ -146,8 +152,11 @@ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 [logo-woocommerce]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png
 [logo-trello]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/trello-logo.png
 [logo-wp]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png
-
-
+[logo-amazon]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/amazon.png
+[logo-facebook]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/facebook-ads.png
+[logo-search]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/seach-console.png
+[logo-tableau]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/tableau.png
+[logo-webmaster]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/webmaster-tools.png
 
 <!--   - Web:
     - HTML
