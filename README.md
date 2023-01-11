@@ -33,15 +33,94 @@ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 
 | Frameworks Web| Admin Tools   |  Webmaster            | Online marketing       |
 | ------------- |:--------------|:----------------------|:-----------------------|
-| Magento       | Plesk   ![logo-plesk]      | Google Analytics![logo-analytic]      | AdWords                | 
-| WordPress ![logo-wp]    | CPanel![logo-cp]        | Google Wemaster tools | Facebook/Instagram Ads |
-| WooCommerce ![logo-woocommerce]  | phpMyAdmin ![logo-phpmyadmin]    | Google Console        | ![logo-adwords] Amazon Ads  |
-| PrestaShop ![logo-presta]   | Apache![logo-apache]        | HTML 5 ![logo-html]                | Hootsuite  ![logo-hootsuite]            |
-| Joomla   ![logo-joomla]     | <b>Data</b>   | CSS 3                 | <b> SEO / SEM </b>     |
-| OpenCart  ![logo-opencart]    | Looker Studio ![logo-looker]| <b>Management</b>     | HubSpot ![logo-hubspot]               |
-| BigCommerce![logo-big-commerce]   | Big Queary ![logo-bigquery]   | Trello  ![logo-trello]              | MajesticSEO  ![logo-majestic]          |
-| Drupal![logo-drupal]       | Tableau       | Jira    ![logo-jira]              | LinkBuilding           |
-|               | R ![logo-r]            | 365 Dynamics ![logo-dynamics]         | OnSite Optimization    |
+| Magento       |![logo-plesk]  Plesk      | ![logo-analytic]. Google Analytics     | ![logo-adwords]  AdWords                | 
+| ![logo-wp]  WordPress     | ![logo-cp]  CPanel        | Google Wemaster tools | Facebook/Instagram Ads |
+| ![logo-woocommerce]  WooCommerce   | ![logo-phpmyadmin]  phpMyAdmin     | Google Console        | Amazon Ads  |
+| ![logo-presta]  PrestaShop    | ![logo-apache]. Apache        | ![logo-html]  HTML 5                | ![logo-hootsuite]  Hootsuite              |
+| ![logo-joomla] Joomla        | <h2>Data</h2>   | CSS 3                 | <b> SEO / SEM </b>     |
+| ![logo-opencart]  OpenCart      | ![logo-looker]  Looker Studio | <b>Management</b>     | ![logo-hubspot]  HubSpot               |
+| ![logo-big-commerce]  BigCommerce   | ![logo-bigquery]  Big Queary    | ![logo-trello]  Trello               | ![logo-majestic]  MajesticSEO            |
+| ![logo-drupal]  Drupal       | Tableau       | ![logo-jira]  Jira                  | LinkBuilding           |
+|               | ![logo-r]  R             | ![logo-dynamics]  365 Dynamics          | OnSite Optimization    |
+
+
+<!--
+<table style="float: left;">
+<thead>
+  <tr>
+    <th class="tg-0lax">Frameworks</th>
+ <th class="tg-0lax">A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png" /></td>
+    <td class="tg-0lax">WordPress</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png" /></td>
+    <td class="tg-0lax">WooCommerce</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/presta.png" /></td>
+    <td class="tg-0lax">PrestaShop</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/joomla.png" /></td>
+    <td class="tg-0lax">Joomla</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/opencart.png" /></td>
+    <td class="tg-0lax">OpenCart</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png" /></td>
+    <td class="tg-0lax">BigCommerce</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/drupal.png" /></td>
+    <td class="tg-0lax">Drupal</td>
+  </tr>
+</tbody>
+</table>
+<table style="float: left;">
+<thead>
+  <tr>
+    <th class="tg-0lax">Frameworks</th>
+ <th class="tg-0lax">A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png" /></td>
+    <td class="tg-0lax">WordPress</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png" /></td>
+    <td class="tg-0lax">WooCommerce</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/presta.png" /></td>
+    <td class="tg-0lax">PrestaShop</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/joomla.png" /></td>
+    <td class="tg-0lax">Joomla</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/opencart.png" /></td>
+    <td class="tg-0lax">OpenCart</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png" /></td>
+    <td class="tg-0lax">BigCommerce</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/drupal.png" /></td>
+    <td class="tg-0lax">Drupal</td>
+  </tr>
+</tbody>
+</table>-->
 
 [logo-adwords]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/adwords.png
 [logo-analytic]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/sanalytics.png
