@@ -1,4 +1,4 @@
-### Hola 👋
+
 <div align="center">
   <a href="https://github.com/ChewyToast">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -8,11 +8,11 @@
 **yorgopetsas/yorgopetsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Yorgo and I would like to share some basic info about me:
+### Hola 👋, my name is Yorgo and I would like to share some basic info about me:
 
-- 🔭 I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.
+_I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more._
 
-- 🌱 I’m currently learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). In the follwoing repositories you can see my most recent projects:
+🌱 I’m currently learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). In the follwoing repositories you can see my most recent projects:
   
   - <a href="https://github.com/yorgopetsas/42Barcelona" /> 42Barcelona</a>
   
@@ -27,56 +27,60 @@ My name is Yorgo and I would like to share some basic info about me:
 
   - <a href="https://github.com/yorgopetsas/Django" /> Django</a>
 
-- 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
+📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
-- 💬 Ask me about: I have extensive knowledge on website and eCommerce management, including the following areas/tools:
+💬 Ask me about: I have extensive knowledge on website and eCommerce management, including the following areas/tools:
 
-  - Frameworks
-    - Magento
-    - WordPress/WooCommerce
-    - PrestaShop
-    - Joomla
-    - OpenCart
-    - BigCommerce
-    - Drupal
-  
-  - Web:
+
+| Frameworks Web| Admin Tools   |  Webmaster            | Online marketing       |
+| ------------- |:--------------|:----------------------|:-----------------------|
+| Magento       | Plesk         | Google Analytics      | AdWords                | 
+| WordPress     | CPanel        | Google Wemaster tools | Facebook/Instagram Ads |
+| WooCommerce   | phpMyAdmin    | Google Console        | Amazon Ads             |
+| PrestaShop    | Apache        | HTML 5                | Hootsuite              |
+| Joomla        | <b>Data</b>   | CSS 3                 | <b> SEO / SEM </b>     |
+| OpenCart      | Looker Studio | <b>Management</b>     | HubSpot                |
+| BigCommerce   | Big Queary    | Trello                | MajesticSEO            |
+| Drupal        | Tableau       | Jira                  | LinkBuilding           |
+|               | R             | 365 Dynamics          | OnSite Optimization    |
+    
+<!--   - Web:
     - HTML
-    - CSS
+    - CSS -->
   
-  - Data
+<!--   - Data
     - Looker Studio (Google Data Studio)
     - Big Queary
     - R
-    - Tableau
+    - Tableau -->
     
-  - Management
+<!--   - Management
     - Trello
     - Jira
-    - 365 Dynamics
+    - 365 Dynamics -->
 
-  - SEO
+<!--   - SEO
     - HubSpot
     - MajesticSEO
     - LinkBuilding
-    - OnSite Optimization
+    - OnSite Optimization -->
 
-  - Webmaster
+<!--   - Webmaster
      - Google Analytics
      - Google Wemaster tools
-     - Google Console
+     - Google Console -->
 
-  - Online marketing
+<!--   - Online marketing
      - AdWords
      - Facebook/Instagram Ads
      - Amazon Ads
-     - Hootsuite
-
+     - Hootsuite -->
+<!-- 
   - Other
      - Plesk
      - CPanel
      - phpMyAdmin
-     - Apache
+     - Apache -->
 
 - Certificates:
   
