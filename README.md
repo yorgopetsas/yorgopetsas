@@ -37,7 +37,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 
 
 | FRAMEWORKS    | | ADMIN TOOLS   | |  WEBMASTER            | | ONLINE MARKETING       |
-| ------------- |-|:--------------|-|:----------------------|-|:-----------------------|
+| ------------- |-|---------------|-|-----------------------|-|------------------------|
 | ![logo-magento]  Magento       ||![logo-plesk]  Plesk      || ![logo-analytics]  Google Analytics     || ![logo-adwords]  AdWords                | 
 | ![logo-wp]  WordPress     || ![logo-cp]  CPanel        || ![logo-webmaster]  Google Wemaster tools ||![logo-facebook]  Facebook Ads |
 | ![logo-woocommerce]  WooCommerce   || ![logo-phpmyadmin]  phpMyAdmin     || ![logo-search]  Google Console        || ![logo-amazon]  Amazon Ads  |
@@ -197,7 +197,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
      - phpMyAdmin
      - Apache -->
 
-Certificates:
+## Certificates:
   
   ✳️  <b>SCRUM</b> @ Scrum Manager (www.scrummanager.com) 
   - <b>Certified Scrum Product Owner (CSPO)</b> 
