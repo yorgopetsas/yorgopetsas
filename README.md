@@ -1,4 +1,4 @@
-✨ Hola 👋, my name is Yorgo and I am Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
+✨ Hola 👋, my name is Yorgo and I currently work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
 Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). <br /><br />In the follwoing repositories you can see my most recent projects:
 
   - <a href="https://github.com/yorgopetsas/42Barcelona" />42Barcelona</a>
