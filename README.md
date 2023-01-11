@@ -15,9 +15,9 @@ Some brief info about me:
 
   - <a href="https://github.com/yorgopetsas/Django" /> Django</a>
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >@LinkedIn</a>.
+- 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
-- My Certificates:
+- Certificates:
   
   ✳️  <b>SCRUM</b> @ Scrum Manager (www.scrummanager.com) 
   - <b>Certified Scrum Product Owner (CSPO)</b> 
@@ -25,11 +25,14 @@ Some brief info about me:
   - <b>Scrum Master Certified (SMC)</b>
     - Link: https://scrummanager.com/website/c/profile/member.php?id=40761&keycredential=Scrum+Manager+Troncal+%28Scrum+Master%29
 
-  ✳️   <b>PYTHON</b> @ Python Institute(Cisco Network Academy).
+
+  ✳️   <b>PYTHON</b> @ Python Institute (Cisco Network Academy).
     - <b>PCAP: Programming Essentials in Python</b>
-  
+   
+
   ✳️ <b>Google Project Management: Specialization</b> @ Coursera(Google)
     - Link: https://www.coursera.org/account/accomplishments/specialization/certificate/DYL4QJWRG58N
+  
   
   ✳️ <b>GOOGLE CLOUD (certificate for successful completion)</b>
   - <b>Associate Cloud Engineer</b>
@@ -42,6 +45,7 @@ Some brief info about me:
     - <b>Analyzing and Visualizing Data in Looker</b>
     - <b>Developing Data Models with Look ML</b>
 
+
   ✳️ <b>IT SUPPORT</b> @ Coursera(Google)
   - <b>Google IT Support Professional Certificate</b> 
     - Link: http://www.coursera.org/verify/professional-cert/HS4LDMZYLEWj
@@ -53,7 +57,8 @@ Some brief info about me:
       - Link: https://coursera.org/verify/J56275AUJ6CX
   - <b>The Bits and Bytes of Computer Networking</b>
     - Link: https://coursera.org/verify/4GM8NG338VCA
-  
+ 
+ 
   ✳️ <b>OTHERS:</b>
   - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042)
 
