@@ -48,6 +48,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 | ![logo-drupal]  Drupal       || ![logo-tableau]  Tableau       || ![logo-jira]  Jira                  || LinkBuilding           |
 |               || ![logo-r]  R             || ![logo-dynamics]  365 Dynamics          || OnSite Optimization    |
 
+- ⚡ Hobbies: Snowboarding, Longboarding, Teknu.
 
 <!--
 <table style="float: left;">
@@ -196,7 +197,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
      - phpMyAdmin
      - Apache -->
 
-- Certificates:
+## Certificates:
   
   ✳️  <b>SCRUM</b> @ Scrum Manager (www.scrummanager.com) 
   - <b>Certified Scrum Product Owner (CSPO)</b> 
@@ -239,11 +240,6 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
  
  
   ✳️ <b>OTHERS:</b>
-  - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042)
+    - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042)
 
-  - <b>AdWords Qualified Individual</b> - Search Advertising @ Google (Credential ID:01525583)
-  
-
-- ⚡ Hobbies: Snowboarding, Longboarding, Teknu.
-
-
+    - <b>AdWords Qualified Individual</b> - Search Advertising @ Google (Credential ID:01525583)
