@@ -29,7 +29,54 @@ My name is Yorgo and I would like to share some basic info about me:
 
 - 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
-- 💬 Ask me about: I have extensive knowledge on eCommerce so shoot if you have doubts regarding development, management, services, ppc, seo, smm, etc.
+- 💬 Ask me about: I have extensive knowledge on website and eCommerce management, including the following areas/tools:
+
+  - Frameworks
+    - Magento
+    - WordPress/WooCommerce
+    - PrestaShop
+    - Joomla
+    - OpenCart
+    - BigCommerce
+    - Drupal
+  
+  - Web:
+    - HTML
+    - CSS
+  
+  - Data
+    - Looker Studio (Google Data Studio)
+    - Big Queary
+    - R
+    - Tableau
+    
+  - Management
+    - Trello
+    - Jira
+    - 365 Dynamics
+
+  - SEO
+    - HubSpot
+    - MajesticSEO
+    - LinkBuilding
+    - OnSite Optimization
+
+  - Webmaster
+     - Google Analytics
+     - Google Wemaster tools
+     - Google Console
+
+  - Online marketing
+     - AdWords
+     - Facebook/Instagram Ads
+     - Amazon Ads
+     - Hootsuite
+
+  - Other
+     - Plesk
+     - CPanel
+     - phpMyAdmin
+     - Apache
 
 - Certificates:
   
