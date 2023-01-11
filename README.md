@@ -1,16 +1,15 @@
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ChewyToast">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<!--
-**yorgopetsas/yorgopetsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-### Hola 👋, my name is Yorgo and I would like to share some basic info about me:
+✨
+Hola 👋, my name is Yorgo and I would like to share some basic info about me:
+---
 
-_I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more._
+> I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.
 
 🌱 I’m currently learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). In the follwoing repositories you can see my most recent projects:
   
@@ -34,16 +33,43 @@ _I’m currently working with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>
 
 | Frameworks Web| Admin Tools   |  Webmaster            | Online marketing       |
 | ------------- |:--------------|:----------------------|:-----------------------|
-| Magento       | Plesk         | Google Analytics      | AdWords                | 
-| WordPress     | CPanel        | Google Wemaster tools | Facebook/Instagram Ads |
-| WooCommerce   | phpMyAdmin    | Google Console        | Amazon Ads             |
-| PrestaShop    | Apache        | HTML 5                | Hootsuite              |
-| Joomla        | <b>Data</b>   | CSS 3                 | <b> SEO / SEM </b>     |
-| OpenCart      | Looker Studio | <b>Management</b>     | HubSpot                |
-| BigCommerce   | Big Queary    | Trello                | MajesticSEO            |
-| Drupal        | Tableau       | Jira                  | LinkBuilding           |
-|               | R             | 365 Dynamics          | OnSite Optimization    |
-    
+| Magento       | Plesk   ![logo-plesk]      | Google Analytics![logo-analytic]      | AdWords                | 
+| WordPress ![logo-wp]    | CPanel![logo-cp]        | Google Wemaster tools | Facebook/Instagram Ads |
+| WooCommerce ![logo-woocommerce]  | phpMyAdmin ![logo-phpmyadmin]    | Google Console        | ![logo-adwords] Amazon Ads  |
+| PrestaShop ![logo-presta]   | Apache![logo-apache]        | HTML 5 ![logo-html]                | Hootsuite  ![logo-hootsuite]            |
+| Joomla   ![logo-joomla]     | <b>Data</b>   | CSS 3                 | <b> SEO / SEM </b>     |
+| OpenCart  ![logo-opencart]    | Looker Studio ![logo-looker]| <b>Management</b>     | HubSpot ![logo-hubspot]               |
+| BigCommerce![logo-big-commerce]   | Big Queary ![logo-bigquery]   | Trello  ![logo-trello]              | MajesticSEO  ![logo-majestic]          |
+| Drupal![logo-drupal]       | Tableau       | Jira    ![logo-jira]              | LinkBuilding           |
+|               | R ![logo-r]            | 365 Dynamics ![logo-dynamics]         | OnSite Optimization    |
+
+[logo-adwords]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/adwords.png
+[logo-analytic]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/sanalytics.png
+[logo-apache]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/apache.png
+[logo-big-commerce]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png
+[logo-bigquery]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/bigquery.png
+[logo-cp]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/cp.png
+[logo-css]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/css.png
+[logo-drupal]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/drupal.png
+[logo-dynamics]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/dynamics.png
+[logo-hootsuite]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/hootsuite.jpeg
+[logo-html]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/html.png
+[logo-hubspot]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/hubspot.png
+[logo-jira]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/jira.png
+[logo-joomla]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/joomla.png
+[logo-looker]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/looker.png
+[logo-majestic]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/majestic.png
+[logo-opencart]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/opencart.png
+[logo-phpmyadmin]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/phpmyadmin.jpeg
+[logo-plesk]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/plesk.png
+[logo-presta]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/presta.png
+[logo-r]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/r.jpeg
+[logo-woocommerce]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png
+[logo-trello]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/trello-logo.png
+[logo-wp]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png
+
+
+
 <!--   - Web:
     - HTML
     - CSS -->
