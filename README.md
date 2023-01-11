@@ -1,13 +1,4 @@
-
-<!-- <div align="left">
-  <a href="https://github.com/ChewyToast">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-
-
 ✨ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
-
 
 Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
 🌱 I’m also learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). <br /><br />In the follwoing repositories you can see my most recent projects:
@@ -21,7 +12,6 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
     - <a href="https://github.com/yorgopetsas/Python/">Libft</a>
 
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/MAKE">🔥 Universal Makefile 🔥</a>
-
 
   - <a href="https://github.com/yorgopetsas/Python" /> Python</a>
     - <a href="https://github.com/yorgopetsas/Python/">🕹️ SpaceWars:</a> My first game build with PyGame
@@ -49,84 +39,6 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 |               || ![logo-r]  R             || ![logo-dynamics]  365 Dynamics          || OnSite Optimization    |
 
 - ⚡ Hobbies: Snowboarding, Longboarding, Teknu.
-
-<!--
-<table style="float: left;">
-<thead>
-  <tr>
-    <th class="tg-0lax">Frameworks</th>
- <th class="tg-0lax">A</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png" /></td>
-    <td class="tg-0lax">WordPress</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png" /></td>
-    <td class="tg-0lax">WooCommerce</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/presta.png" /></td>
-    <td class="tg-0lax">PrestaShop</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/joomla.png" /></td>
-    <td class="tg-0lax">Joomla</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/opencart.png" /></td>
-    <td class="tg-0lax">OpenCart</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png" /></td>
-    <td class="tg-0lax">BigCommerce</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/drupal.png" /></td>
-    <td class="tg-0lax">Drupal</td>
-  </tr>
-</tbody>
-</table>
-<table style="float: left;">
-<thead>
-  <tr>
-    <th class="tg-0lax">Frameworks</th>
- <th class="tg-0lax">A</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/wp.png" /></td>
-    <td class="tg-0lax">WordPress</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/woocommerce.png" /></td>
-    <td class="tg-0lax">WooCommerce</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/presta.png" /></td>
-    <td class="tg-0lax">PrestaShop</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/joomla.png" /></td>
-    <td class="tg-0lax">Joomla</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/opencart.png" /></td>
-    <td class="tg-0lax">OpenCart</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/big-commerce.png" /></td>
-    <td class="tg-0lax">BigCommerce</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/drupal.png" /></td>
-    <td class="tg-0lax">Drupal</td>
-  </tr>
-</tbody>
-</table>-->
 
 [logo-magento]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/magento.png
 [logo-adwords]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/adwords.png
@@ -159,44 +71,6 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 [logo-tableau]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/tableau.png
 [logo-webmaster]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/webmaster-tools.png
 
-<!--   - Web:
-    - HTML
-    - CSS -->
-  
-<!--   - Data
-    - Looker Studio (Google Data Studio)
-    - Big Queary
-    - R
-    - Tableau -->
-    
-<!--   - Management
-    - Trello
-    - Jira
-    - 365 Dynamics -->
-
-<!--   - SEO
-    - HubSpot
-    - MajesticSEO
-    - LinkBuilding
-    - OnSite Optimization -->
-
-<!--   - Webmaster
-     - Google Analytics
-     - Google Wemaster tools
-     - Google Console -->
-
-<!--   - Online marketing
-     - AdWords
-     - Facebook/Instagram Ads
-     - Amazon Ads
-     - Hootsuite -->
-<!-- 
-  - Other
-     - Plesk
-     - CPanel
-     - phpMyAdmin
-     - Apache -->
-
 ## Certificates:
   
   ✳️  <b>SCRUM</b> @ Scrum Manager (www.scrummanager.com) 
@@ -205,14 +79,11 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
   - <b>Scrum Master Certified (SMC)</b>
     - Link: https://scrummanager.com/website/c/profile/member.php?id=40761&keycredential=Scrum+Manager+Troncal+%28Scrum+Master%29
 
-
-  ✳️   <b>PYTHON</b> @ Python Institute (Cisco Network Academy).
-    - <b>PCAP: Programming Essentials in Python</b>
+  ✳️ <b>PYTHON</b> @ Python Institute (Cisco Network Academy).
+  - <b>PCAP: Programming Essentials in Python</b>
    
-
-  ✳️ <b>Google Project Management: Specialization</b> @ Coursera(Google)
-    - Link: https://www.coursera.org/account/accomplishments/specialization/certificate/DYL4QJWRG58N
-  
+  ✳️ <b>GOOGLE PROJECT MANAGEMENTE: Specialization</b> @ Coursera(Google)
+  - Link: https://www.coursera.org/account/accomplishments/specialization/certificate/DYL4QJWRG58N
   
   ✳️ <b>GOOGLE CLOUD (certificate for successful completion)</b>
   - <b>Associate Cloud Engineer</b>
@@ -224,7 +95,6 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
     - <b>Big Data & Machine Learning Fundamentals</b>
     - <b>Analyzing and Visualizing Data in Looker</b>
     - <b>Developing Data Models with Look ML</b>
-
 
   ✳️ <b>IT SUPPORT</b> @ Coursera(Google)
   - <b>Google IT Support Professional Certificate</b> 
