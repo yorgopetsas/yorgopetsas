@@ -1,9 +1,7 @@
-✨ Hola 👋, my name is Yorgo and I would like to share some basic info about me:
+✨ Hola 👋, my name is Yorgo and I am Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
+Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). <br /><br />In the follwoing repositories you can see my most recent projects:
 
-Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</b>, <b>Joomla</b>, <b>BigCommerce</b> and more.<br /><br />
-🌱 I’m also learning C in <a href="https://www.42barcelona.com/">42Barcelona</a> and Python (Django y Data Analysis). <br /><br />In the follwoing repositories you can see my most recent projects:
-
-  - <a href="https://github.com/yorgopetsas/42Barcelona" /> 42Barcelona</a>
+  - <a href="https://github.com/yorgopetsas/42Barcelona" />42Barcelona</a>
   
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/get_next_line">Get Next Line</a>
 
@@ -22,7 +20,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/functions">Functions:</a> A collection of basic functions
 
-  - <a href="https://github.com/yorgopetsas/Django" /> Django</a>
+  - <a href="https://github.com/yorgopetsas/Django" />Django</a>
 
 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
@@ -41,7 +39,7 @@ Currently I work with <b>Magento</b>, <b>WordPress(WooCommerce)</b>, <b>Django</
 | ![logo-drupal]  Drupal       || ![logo-tableau]  Tableau       || ![logo-jira]  Jira                  || LinkBuilding           |
 |               || ![logo-r]  R             || ![logo-dynamics]  365 Dynamics          || OnSite Optimization    |
 
-- ⚡ Hobbies: Snowboarding, Longboarding, Teknu.
+<!-- - ⚡ Hobbies: Snowboarding, Longboarding, Teknu. -->
 
 [logo-magento]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/magento.png
 [logo-adwords]: https://github.com/yorgopetsas/yorgopetsas/blob/main/Assets/adwords.png
