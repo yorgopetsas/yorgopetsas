@@ -11,7 +11,8 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/MAKE">🔥 Universal Makefile 🔥</a>
 
-  - <a href="https://github.com/yorgopetsas/Python" /> Python</a>
+  - <a href="https://github.com/yorgopetsas/Python"> Python</a>
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceInvaders">👾 Space Invaders:</a> Artistic Interpretation of the classi game [IN PROGRESS]
     - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceWars">🕹️ SpaceWars:</a> My first game build with PyGame
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/TypingSpeed">⌨️ Typing Speed:</a> A script that tells you how fast you type
