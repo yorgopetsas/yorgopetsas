@@ -22,6 +22,9 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
   - <a href="https://github.com/yorgopetsas/Django" />Django</a>
 
+  - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a>
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a>
+
 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
 💬 Ask me about: I have extensive knowledge on website and eCommerce management, including the following areas/tools:
