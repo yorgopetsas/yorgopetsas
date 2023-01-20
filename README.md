@@ -12,12 +12,12 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/MAKE">🔥 Universal Makefile 🔥</a>
 
   - <a href="https://github.com/yorgopetsas/Python"> Python</a>
-    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceInvaders">👾 Space Invaders:</a> Artistic Interpretation of the classi game [IN PROGRESS]
-    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceWars">🕹️ SpaceWars:</a> My first game build with PyGame
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceInvaders">👾 Space Invaders:</a> Artistic Interpretation of the classi game <b>[IN PROGRESS]</b>
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/SpaceWars">🕹️ SpaceWars:</a> My first game build with <b>PyGame</b>
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/TypingSpeed">⌨️ Typing Speed:</a> A script that tells you how fast you type
 
-    - <a href="https://github.com/yorgopetsas/Python/tree/main/roullete">🎰 Roullete:</a> A roullete like CLI game
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/roullete">🎰 Roullete:</a> A roullete like <b>CLI</b> game
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/functions">Functions:</a> A collection of basic functions
 
@@ -25,6 +25,11 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
   - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a>
     - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a>
+
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/rest-api">REST API</a>: Create a fully functioning <b>API</b>.
+
+.
+.
 
 📫 Best way to reach me is through my <a href="https://www.linkedin.com/in/yorgopetsas/" target="_blank" >LinkedIn Profile</a>.
 
