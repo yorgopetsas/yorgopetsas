@@ -25,7 +25,9 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
     - <a href="https://github.com/yorgopetsas/Python/tree/main/django/simple-website">Simple Django Website</a>: Simple Django Website build in 30 minutes
 
   - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a>
-    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a>
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a> <b>(LIVE DEMO)</b>
+
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/advanced-flask-website">Advance Flask Website</a>: <b>(LIVE DEMO)</b> This website has more advanced features like User Registration & Authentication, SQL Database, handles GET & POST request, etc.
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/rest-api">REST API</a>: Create a fully functioning <b>API</b>.
 
