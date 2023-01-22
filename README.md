@@ -21,7 +21,8 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
     - <a href="https://github.com/yorgopetsas/Python/tree/main/functions">Functions:</a> A collection of basic functions
 
-  - <a href="https://github.com/yorgopetsas/Django" />Django</a>
+  - <a href="https://github.com/yorgopetsas/Django">Django</a>
+    - <a href="https://github.com/yorgopetsas/Python/tree/main/django/simple-website">Simple Django Website</a>: Simple Django Website build in 30 minutes
 
   - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a>
     - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a>
