@@ -3,6 +3,8 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
   - <a href="https://github.com/yorgopetsas/42Barcelona" />42Barcelona</a>
   
+    - <a href="https://github.com/yorgopetsas/Fractol">Fractol</a>
+
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/get_next_line">Get Next Line</a>
 
     - <a href="https://github.com/yorgopetsas/42Barcelona/tree/master/printf">Print_F</a>
