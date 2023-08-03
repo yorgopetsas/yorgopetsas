@@ -132,3 +132,6 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
   - <b>Microsoft Excel 2016 Advanced</b> (Credential ID: PT20200042) 
 
   - <b>AdWords Qualified Individual</b> - Search Advertising @ Google (Credential ID:01525583)
+<img src="https://github-readme-stats.vercel.app/api?username=yorgopetsas&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yorgopetsas&show_icons=true"/>
