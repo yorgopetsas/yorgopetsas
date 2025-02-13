@@ -34,6 +34,9 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
 
   - <a href="https://github.com/yorgopetsas/Python/tree/main/django/rest-api">REST API</a><br /><b>LIVE DEMO </b>: <a href="https://django-rest-api.amanitasolutions.com">django-rest-api.amanitasolutions.com</a> ( READ INSTRUCTIONS IN PROJECT REPOSITORY )<br />Fully functional API that allows you to GET, POST, PUT and DELETE items in the database through several endpoints.
 
+- <a href="https://github.com/yorgopetsas/Django">Streamlit</a></h2>
+  - <a href="https://github.com/yorgopetsas/Django">Complex Product Configuration GUI for the Elevator industry</a><br /><b>LIVE DEMO</b>
+
  - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a></h2>
    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a><br /><b>LIVE DEMO</b>: <a href="http://cv.amanitasolutions.com/">cv.amanitasolutions.com</a><br />Flask as fast as possible: a project that shows the basic features of this framework and deals with thinkgs like Views, URLs Setup, Redirects, passing arguments and data through the URL Parameters, HTML Tempaltes, Flask Syntax, JSON handling, content embbeding, etc.
 
