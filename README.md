@@ -28,17 +28,17 @@ Also I’m learning to progoram in C in <a href="https://www.42barcelona.com/">4
     - <a href="https://github.com/yorgopetsas/Python/tree/main/functions">Functions:</a> A collection of basic functions
 
 - <a href="https://github.com/yorgopetsas/Django">Django</a></h2>
-  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/simple-website">Simple Django Website</a><br /><b>LIVE DEMO</b><br />Simple Django Website build in 30 minutes
+  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/simple-website">Simple Django Website</a><br />Simple Django Website build in 30 minutes
 
-  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/todo-list">Django ToDo List</a><br /><b>LIVE DEMO [IN PROCCESS]</b> <a href="https://dtl.amanitasolutions.com">dtl.amanitasolutions.com</a><br />A website that allows you to create a list of taks with individual items with advanced features like User Registration & Authentication, SQL Database, handles GET & POST request, etc.
+  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/todo-list">Django ToDo List</a><br />A website that allows you to create a list of taks with individual items with advanced features like User Registration & Authentication, SQL Database, handles GET & POST request, etc.
 
-  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/rest-api">REST API</a><br /><b>LIVE DEMO </b>: <a href="https://django-rest-api.amanitasolutions.com">django-rest-api.amanitasolutions.com</a> ( READ INSTRUCTIONS IN PROJECT REPOSITORY )<br />Fully functional API that allows you to GET, POST, PUT and DELETE items in the database through several endpoints.
+  - <a href="https://github.com/yorgopetsas/Python/tree/main/django/rest-api">REST API</a><br />Fully functional API that allows you to GET, POST, PUT and DELETE items in the database through several endpoints.
 
 - <a href="https://github.com/yorgopetsas/Django">Streamlit</a></h2>
   - <a href="https://github.com/yorgopetsas/Django">Complex Product Configuration GUI for the Elevator industry</a><br /><b>LIVE DEMO</b>
 
  - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask">Flask</a></h2>
-   - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a><br /><b>LIVE DEMO</b>: <a href="http://cv.amanitasolutions.com/">cv.amanitasolutions.com</a><br />Flask as fast as possible: a project that shows the basic features of this framework and deals with thinkgs like Views, URLs Setup, Redirects, passing arguments and data through the URL Parameters, HTML Tempaltes, Flask Syntax, JSON handling, content embbeding, etc.
+   - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/Simple%20Flask%20Website">Simple Flask Website</a><br />Flask as fast as possible: a project that shows the basic features of this framework and deals with thinkgs like Views, URLs Setup, Redirects, passing arguments and data through the URL Parameters, HTML Tempaltes, Flask Syntax, JSON handling, content embbeding, etc.
 
    - <a href="https://github.com/yorgopetsas/Python/tree/main/Flask/advanced-flask-website">Advance Flask Website</a><br /><b>LIVE DEMO</b><br />This website has more advanced features like User Registration & Authentication, SQL Database, handles GET & POST request, etc.
 
